@@ -1,0 +1,22 @@
+{
+  "name": "ibest",
+  "version": "1.0.0",
+  "homepage": "https://retsomm.github.io/ibest-test-web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d .",
+    "build": "echo 'No build step required for static site'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
