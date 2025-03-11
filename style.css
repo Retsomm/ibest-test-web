@@ -267,7 +267,7 @@ html, body,.container {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/jing-dian.jpg);
+    background-image: url(./images/jing-dian.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
